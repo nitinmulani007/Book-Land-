@@ -1,7 +1,7 @@
-create database onlinebookstore;
-use onlinebookstore;
+create database bookstore;
+use bookstore;
 show tables;
--- drop database onlinebookstore; 
+-- drop database bookstore; 
 
 -- -----------------------------------------------------TABLES-----------------------------------------------------------------------------
 create table Customers(
